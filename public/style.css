@@ -66,6 +66,7 @@ table {
 
 form {
   margin-top: 25px;
+  width: max-content;
 }
 
 .transactions {
@@ -78,4 +79,8 @@ form {
 
 .transaction-buttons {
   margin-top: 25px;
+}
+
+.piggy img{
+  width: 20%;
 }
